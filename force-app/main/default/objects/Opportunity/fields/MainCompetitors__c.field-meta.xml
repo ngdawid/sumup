@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>MainCompetitors__c</fullName>
+    <description>Main competitors for the deal. Captured by the Partner Sales flow and required there when Type = New Customer.</description>
+    <inlineHelpText>List the main competitors bidding for this deal, separated by commas.</inlineHelpText>
+    <label>Main Competitor(s)</label>
+    <required>false</required>
+    <trackFeedHistory>false</trackFeedHistory>
+    <trackTrending>false</trackTrending>
+    <type>TextArea</type>
+</CustomField>

@@ -1,0 +1,2 @@
+# Normalise line endings to LF for everyone, regardless of OS or editor settings
+* text=auto eol=lf
